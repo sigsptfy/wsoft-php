@@ -119,42 +119,39 @@
              <div class="row pos-rel">
                  <div class="col-lg-5 mb-0">
                      <div class="section-title text-start">
-                         <span>The work we do willingly</span>
-                         <h2 class="wow">Inspiration comes only <strong>during work.</strong></h2>
-                         <p>This letter expresses our sincere gratitude for the excellent work that your company has done. I would like to note the high professionalism of the entire team, the ability to work with the customer.</p>
+                         <span>Our Development Approach</span>
+                         <h2 class="wow">Excellence through <strong>proven methodology.</strong></h2>
+                         <p>We deliver high-quality software solutions using industry best practices and cutting-edge technologies. Our experienced team ensures every project meets the highest standards of performance and reliability.</p>
                      </div>
-
                      <div class="mb-3">
                          <!-- Progress Bar Start -->
                          <div class="progress-wrap">
-                             <h6>Project delivered on time</h6>
+                             <h6>Projects delivered on time</h6>
                              <div class="progress">
-                                 <div class="progress-bar" role="progressbar" data-width="90">
-                                     <span>90%</span>
+                                 <div class="progress-bar" role="progressbar" data-width="95">
+                                     <span>95%</span>
                                  </div>
                              </div>
                          </div>
-
                          <div class="progress-wrap">
-                             <h6>Availability</h6>
+                             <h6>Client satisfaction rate</h6>
                              <div class="progress">
-                                 <div class="progress-bar" role="progressbar" data-width="70">
-                                     <span>70%</span>
+                                 <div class="progress-bar" role="progressbar" data-width="98">
+                                     <span>98%</span>
                                  </div>
                              </div>
                          </div>
                          <!-- End Progressbar -->
                      </div>
-                     <a href="about-us.html" class="btn btn-secondary"><span class="outer-wrap"><span data-text="Read More">Read More</span></span></a>
+                     <a href="about-us.html" class="btn btn-secondary"><span class="outer-wrap"><span data-text="Learn More">Learn More</span></span></a>
                  </div>
                  <div class="col-lg-7 mt-5 mt-lg-0">
                      <div class="video-padding">
                          <div class="section-title text-start">
-                             <span>Achievement</span>
-                             <h2 class="wow">Products successfully launced <strong>in the previous 12 months</strong></h2>
+                             <span>Our Success Story</span>
+                             <h2 class="wow">Software solutions successfully <strong>delivered to satisfied clients</strong></h2>
                          </div>
                      </div>
-
                      <div class="video-bg-off wow fadeInUp">
                          <img src="assets/images/video_bg_off.png" alt="">
                          <div class="video-play-btn">
@@ -178,19 +175,19 @@
                  </div>
                  <div class="col-lg-6 col-xl-5 col-sm-12">
                      <div class="section-title text-start mb-4">
-                         <span>Planning on Developing a Product</span>
-                         <h2 class="wow">Popular Features that your <strong>Business Needs </strong></h2>
-                         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. In urna lectus, mattis non accumsan in, tempor dictum neque. In hac habitasse platea dictumst. Lorem ipsum dolor sit amet, consectetur adipiscing.</p>
+                         <span>Ready to Build Your Software Solution</span>
+                         <h2 class="wow">Essential Features that your <strong>Project Requires</strong></h2>
+                         <p>We specialize in creating robust, scalable software solutions tailored to your business needs. Our comprehensive development approach ensures your project is delivered with cutting-edge technology and industry best practices.</p>
                      </div>
 
                      <ul class="list-unstyled icons-listing theme-primary mb-4 w-half check">
-                         <li>Intregrations</li>
-                         <li>Business Strategy</li>
-                         <li>Business Setup</li>
-                         <li>Easy Documentation</li>
+                         <li>API Development</li>
+                         <li>Database Design</li>
+                         <li>Cloud Integration</li>
+                         <li>Technical Support</li>
                      </ul>
 
-                     <a href="our-services.html" class="btn btn-secondary"><span class="outer-wrap"><span data-text="View All Features">View All Features</span></span></a>
+                     <a href="our-services.html" class="btn btn-secondary"><span class="outer-wrap"><span data-text="View All Services">View All Services</span></span></a>
                  </div>
 
              </div>
