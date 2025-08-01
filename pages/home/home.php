@@ -346,19 +346,19 @@
                              <div class="hstack gap-3">
                                  <div class="counter-text fun-fact">
                                      <h2>
-                                         <span class="timer" data-to="12" data-speed="2000">12</span><sub>K</sub>
+                                         <span class="timer" data-to="25" data-speed="2000">25</span><sub>+</sub>
                                      </h2>
                                      <div class="text">
-                                         Support Request resolved
+                                         Projects completed successfully
                                      </div>
                                  </div>
                                  <div class="vr"></div>
                                  <div class="counter-text fun-fact">
                                      <h2>
-                                         <span class="timer" data-to="97" data-speed="2000">97</span>.8<sub>%</sub>
+                                         <span class="timer" data-to="98" data-speed="2000">98</span><sub>%</sub>
                                      </h2>
                                      <div class="text">
-                                         Customer satisfaction
+                                         Client satisfaction rate
                                      </div>
                                  </div>
                              </div>
@@ -368,57 +368,57 @@
                  </div>
                  <div class="mx-auto col-xl-5 col-lg-8 mt-5 mt-xl-0">
                      <div class="section-title text-start">
-                         <span>Get Your Answer Fast</span>
-                         <h2 class="wow">Everything you need to <strong>Know to work better</strong></h2>
-                         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. In urna lectus, mattis non accumsan in, tempor dictum neque. In hac habitasse platea dictumst. Lorem ipsum dolor sit amet, consectetur adipiscing.</p>
+                         <span>Frequently Asked Questions</span>
+                         <h2 class="wow">Everything you need to <strong>know about our services</strong></h2>
+                         <p>Get answers to common questions about our software development process, project timelines, and support services. We're here to help you understand how we can best serve your business needs.</p>
                      </div>
                      <div class="theme-accordian">
                          <div class="accordion accordion-flush theme-accordian" id="accordionFlushExampleSimple">
                              <div class="accordion-item">
                                  <h2 class="accordion-header" id="flush-gap-headingOne">
                                      <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#flush-gap-collapseOne" aria-expanded="false" aria-controls="flush-gap-collapseOne">
-                                         First and foremost, you never want to go?
+                                         What types of software solutions do you develop?
                                      </button>
                                  </h2>
                                  <div id="flush-gap-collapseOne" class="accordion-collapse collapse show" aria-labelledby="flush-gap-headingOne" data-bs-parent="#accordionFlushExampleSimple">
                                      <div class="accordion-body">
-                                         Ned ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque Arya.
+                                         We develop custom web applications, mobile apps, enterprise software, e-commerce platforms, and API integrations using modern technologies and frameworks.
                                      </div>
                                  </div>
                              </div>
                              <div class="accordion-item">
                                  <h2 class="accordion-header" id="flush-gap-headingTwo">
                                      <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-gap-collapseTwo" aria-expanded="false" aria-controls="flush-gap-collapseTwo">
-                                         How can i customized this theme?
+                                         How long does a typical project take?
                                      </button>
                                  </h2>
                                  <div id="flush-gap-collapseTwo" class="accordion-collapse collapse" aria-labelledby="flush-gap-headingTwo" data-bs-parent="#accordionFlushExampleSimple">
                                      <div class="accordion-body">
-                                         Ned ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque Arya.
+                                         Project timelines vary based on complexity and requirements. Simple projects take 2-4 weeks, while complex enterprise solutions may require 3-6 months or more.
                                      </div>
                                  </div>
                              </div>
                              <div class="accordion-item">
                                  <h2 class="accordion-header" id="flush-gap-headingThree">
                                      <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-gap-collapseThree" aria-expanded="false" aria-controls="flush-gap-collapseThree">
-                                         Can I cancel or change my order?
+                                         Do you provide ongoing support and maintenance?
                                      </button>
                                  </h2>
                                  <div id="flush-gap-collapseThree" class="accordion-collapse collapse" aria-labelledby="flush-gap-headingThree" data-bs-parent="#accordionFlushExampleSimple">
                                      <div class="accordion-body">
-                                         Ned ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque Arya.
+                                         Yes, we offer comprehensive support and maintenance services including bug fixes, security updates, feature enhancements, and technical support.
                                      </div>
                                  </div>
                              </div>
                              <div class="accordion-item">
                                  <h2 class="accordion-header" id="flush-gap-headingFour">
                                      <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-gap-collapseFour" aria-expanded="false" aria-controls="flush-gap-collapseFour">
-                                         How can I exchange an item bought online?
+                                         What technologies do you work with?
                                      </button>
                                  </h2>
                                  <div id="flush-gap-collapseFour" class="accordion-collapse collapse" aria-labelledby="flush-gap-headingFour" data-bs-parent="#accordionFlushExampleSimple">
                                      <div class="accordion-body">
-                                         Ned ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque Arya.
+                                         We work with modern technologies including React, Node.js, Python, PHP, Laravel, MySQL, MongoDB, AWS, and various mobile development frameworks.
                                      </div>
                                  </div>
                              </div>
