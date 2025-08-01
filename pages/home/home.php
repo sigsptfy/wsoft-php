@@ -201,20 +201,19 @@
              <div class="row">
                  <div class="col-xl-6 col-lg-7 mb-0">
                      <div class="section-title text-start light">
-                         <span>Get To Know Us</span>
-                         <h2 class="wow">We Working For You To <strong>Build Your Business Fast</strong></h2>
-                         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. In urna lectus, mattis non accumsan in, tempor dictum neque. In hac habitasse platea dictumst. Lorem ipsum dolor sit amet, consectetur adipiscing.
+                         <span>About Wsoft</span>
+                         <h2 class="wow">We Deliver Quality Solutions To <strong>Scale Your Business</strong></h2>
+                         <p>With years of experience in software development, we've helped businesses transform their operations through innovative technology solutions. Our expert team is committed to delivering excellence in every project we undertake.
                          </p>
                      </div>
-
                      <div class="hstack gap-4 mb-5 home-stats">
                          <div class="tick-icon-big">
                              <div class="icon-space">
                                  <i class="bi bi-check2"></i>
                              </div>
                              <div class="text-space fun-fact">
-                                 <h2><span class="timer" data-to="99" data-speed="2000">99.7</span>%</h2>
-                                 <div>Satisfaction rate</div>
+                                 <h2><span class="timer" data-to="98" data-speed="2000">98</span>%</h2>
+                                 <div>Client satisfaction</div>
                                  <div class="stars">
                                      <i class="bi bi-star-fill"></i>
                                      <i class="bi bi-star-fill"></i>
@@ -229,8 +228,8 @@
                                  <i class="bi bi-check2"></i>
                              </div>
                              <div class="text-space fun-fact">
-                                 <h2>$<span class="timer" data-to="9" data-speed="2000"></span>M</h2>
-                                 <div>Global revenue</div>
+                                 <h2><span class="timer" data-to="25" data-speed="2000">25</span>+</h2>
+                                 <div>Projects completed</div>
                                  <div class="stars">
                                      <i class="bi bi-star-fill"></i>
                                      <i class="bi bi-star-fill"></i>
@@ -241,8 +240,7 @@
                              </div>
                          </div>
                      </div>
-
-                     <a href="about-us.html" class="btn btn-outline-light"><span class="outer-wrap"><span data-text="Read More">Read More</span></span></a>
+                     <a href="about-us.html" class="btn btn-outline-light"><span class="outer-wrap"><span data-text="Learn More">Learn More</span></span></a>
                  </div>
                  <div class="stats-img-abstract">
                      &nbsp;
