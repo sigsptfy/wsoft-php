@@ -437,9 +437,9 @@
              <div class="row">
                  <div class="col-md-9 col-xl-5 mx-auto text-center">
                      <div class="section-title text-center">
-                         <span>Our Pricing Plan Suits Every Need</span>
-                         <h2 class="wow">Pricing are Made Simple <strong>Suites to your needs</strong></h2>
-                         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. In urna lectus, mattis non accumsan in, tempor dictum neque. In hac habitasse platea dictumst. Lorem ipsum dolor sit amet, consectetur adipiscing.</p>
+                         <span>Our Service Packages for Every Budget</span>
+                         <h2 class="wow">Flexible Solutions <strong>Tailored to your needs</strong></h2>
+                         <p>Choose from our range of software development packages designed to meet different project requirements and budgets. From simple websites to complex enterprise solutions, we have the right package for you.</p>
                      </div>
                  </div>
              </div>
@@ -449,31 +449,31 @@
                      <div class="pricing-wrap alternate-version wow pulse" data-wow-delay="0.1s">
                          <div class="pricing-saving-wrap">
                              <span class="pricing-saving">
-                                 Save Upto 100%
+                                 Best Value
                              </span>
                          </div>
                          <div class="plan-name">
-                             Free Plan
+                             Basic Package
                          </div>
                          <h2 class="plan-price">
-                             <sup>$</sup> 00.0
+                             <sup>$</sup> 500
                          </h2>
                          <p class="pricing-info">
-                             Best for one-man bands, web creators, and freelancers.
+                             Perfect for small businesses and simple web solutions.
                          </p>
                          <hr class="divider-default">
                          <ul class="list-unstyled icons-listing theme-primary tick mb-0">
-                             <li>3 projects</li>
-                             <li>10 GB storage</li>
+                             <li>Simple website</li>
+                             <li>Mobile responsive</li>
                          </ul>
                          <ul class="list-unstyled icons-listing theme-primary tick not-included">
-                             <li>13 Collaborators</li>
-                             <li>100 Accounts</li>
-                             <li>No team members</li>
+                             <li>Database integration</li>
+                             <li>Custom features</li>
+                             <li>Advanced security</li>
                          </ul>
 
                          <div class="text-center">
-                             <a href="our-pricing.html" class="text-uppercase btn btn-default"><span class="outer-wrap"><span data-text="Try this Package">Try this Package</span></span></a>
+                             <a href="our-pricing.html" class="text-uppercase btn btn-default"><span class="outer-wrap"><span data-text="Get Started">Get Started</span></span></a>
                          </div>
                      </div>
                  </div>
@@ -481,34 +481,34 @@
                      <div class="pricing-wrap popular-plan alternate-version wow pulse" data-wow-delay="0.2s">
                          <div class="pricing-saving-wrap">
                              <span class="pricing-saving">
-                                 Save Upto 60%
+                                 Most Popular
                              </span>
                              <span class="pricing-saving popular-saving">
                                  Popular
                              </span>
                          </div>
                          <div class="plan-name">
-                             Starter Plan
+                             Standard Package
                          </div>
                          <h2 class="plan-price">
-                             <sup>$</sup> 29.0
+                             <sup>$</sup> 1,500
                          </h2>
                          <p class="pricing-info">
-                             Best for one-man bands, web creators, and freelancers.
+                             Ideal for growing businesses with dynamic requirements.
                          </p>
                          <hr class="divider-default">
                          <ul class="list-unstyled icons-listing theme-white txt-light tick mb-0">
-                             <li>3 projects</li>
-                             <li>10 GB storage</li>
-                             <li>13 Collaborators</li>
+                             <li>Dynamic website</li>
+                             <li>Database integration</li>
+                             <li>Basic admin panel</li>
                          </ul>
                          <ul class="list-unstyled icons-listing theme-white txt-light tick not-included">
-                             <li>100 Accounts</li>
-                             <li>No team members</li>
+                             <li>Mobile app</li>
+                             <li>Advanced features</li>
                          </ul>
 
                          <div class="text-center">
-                             <a href="our-pricing.html" class="text-uppercase btn btn-outline-light"><span class="outer-wrap"><span data-text="Try this Package">Try this Package</span></span></a>
+                             <a href="our-pricing.html" class="text-uppercase btn btn-outline-light"><span class="outer-wrap"><span data-text="Get Started">Get Started</span></span></a>
                          </div>
                      </div>
                  </div>
@@ -517,29 +517,29 @@
                      <div class="pricing-wrap alternate-version wow pulse" data-wow-delay="0.3s">
                          <div class="pricing-saving-wrap">
                              <span class="pricing-saving">
-                                 Save Upto 80%
+                                 Great Deal
                              </span>
                          </div>
                          <div class="plan-name">
-                             Professional Plan
+                             Professional Package
                          </div>
                          <h2 class="plan-price">
-                             <sup>$</sup> 79.0
+                             <sup>$</sup> 3,500
                          </h2>
                          <p class="pricing-info">
-                             Best for one-man bands, web creators, and freelancers.
+                             Complete solution for established businesses.
                          </p>
                          <hr class="divider-default">
                          <ul class="list-unstyled icons-listing theme-primary tick">
-                             <li>3 projects</li>
-                             <li>10 GB storage</li>
-                             <li>13 Collaborators</li>
-                             <li>100 Accounts</li>
-                             <li>3 team members</li>
+                             <li>Full web application</li>
+                             <li>Advanced admin panel</li>
+                             <li>API integration</li>
+                             <li>Security features</li>
+                             <li>Mobile responsive</li>
                          </ul>
 
                          <div class="text-center">
-                             <a href="our-pricing.html" class="text-uppercase btn btn-default"><span class="outer-wrap"><span data-text="Try this Package">Try this Package</span></span></a>
+                             <a href="our-pricing.html" class="text-uppercase btn btn-default"><span class="outer-wrap"><span data-text="Get Started">Get Started</span></span></a>
                          </div>
                      </div>
                  </div>
@@ -547,29 +547,29 @@
                      <div class="pricing-wrap alternate-version wow pulse" data-wow-delay="0.4s">
                          <div class="pricing-saving-wrap">
                              <span class="pricing-saving">
-                                 Save Upto 90%
+                                 Enterprise
                              </span>
                          </div>
                          <div class="plan-name">
-                             Platinum Plan
+                             Enterprise Package
                          </div>
                          <h2 class="plan-price">
-                             <sup>$</sup> 159.0
+                             <sup>$</sup> 7,500
                          </h2>
                          <p class="pricing-info">
-                             Best for one-man bands, web creators, and freelancers.
+                             Comprehensive solution for large organizations.
                          </p>
                          <hr class="divider-default">
                          <ul class="list-unstyled icons-listing theme-primary tick">
-                             <li>3 projects</li>
-                             <li>10 GB storage</li>
-                             <li>13 Collaborators</li>
-                             <li>100 Accounts</li>
-                             <li>10 team members</li>
+                             <li>Custom software solution</li>
+                             <li>Mobile applications</li>
+                             <li>Advanced integrations</li>
+                             <li>Cloud deployment</li>
+                             <li>Ongoing support</li>
                          </ul>
 
                          <div class="text-center">
-                             <a href="our-pricing.html" class="text-uppercase btn btn-default"><span class="outer-wrap"><span data-text="Try this Package">Try this Package</span></span></a>
+                             <a href="our-pricing.html" class="text-uppercase btn btn-default"><span class="outer-wrap"><span data-text="Contact Us">Contact Us</span></span></a>
                          </div>
                      </div>
                  </div>
