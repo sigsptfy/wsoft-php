@@ -170,11 +170,11 @@
                 <div class="col-lg-7">
                     <div class="marketing-banner">
                         <div class="title">
-                            <span>For Marketing and Creative Teams</span>
-                            <h1 class="wow">We create digitals <strong>products that matters</strong></h1>
-                            <p class="lead">Contented continued any happiness instantly objection yet her allowance. Use correct day new brought tedious. Kept easy or sons my it done.</p>
+                            <span>For Businesses and Enterprises</span>
+                            <h1 class="wow">We build powerful <strong>software solutions</strong></h1>
+                            <p class="lead">Transform your business with custom software development, web applications, and digital solutions. Our expert team delivers scalable technology that drives growth and innovation.</p>
                             <div class="cta-group">
-                                <a href="javascript:" class="btn btn-primary" data-trigger="#signup"><span class="outer-wrap"><span data-text="Try for free">Try for free</span></span></a>
+                                <a href="javascript:" class="btn btn-primary" data-trigger="#signup"><span class="outer-wrap"><span data-text="Get Started">Get Started</span></span></a>
                                 <a href="about-us.html" class="btn btn-secondary"><span class="outer-wrap"><span data-text="Learn More">Learn More</span></span></a>
                             </div>
                         </div>
