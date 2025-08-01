@@ -1,18 +1,12 @@
-<div class="home-default">
-
+<div class="bg-primary header-bg">
     <header>
         <div class="container">
             <div class="top-bar">
-                <div class="row align-items-center">
+                <div class="row">
                     <div class="col-md-6 order-md-last">
-                        <div class="social-icons">
-                            <ul class="list-unstyled">
-                                <li><a href="javascript:"><i class="bi bi-facebook"></i></a></li>
-                                <li><a href="javascript:"><i class="bi bi-twitter-x"></i></a></li>
-                                <li><a href="javascript:"><i class="bi bi-instagram"></i></a></li>
-                                <li><a href="javascript:"><i class="bi bi-linkedin"></i></a></li>
-                                <li><a href="javascript:"><i class="bi bi-youtube"></i></a></li>
-                            </ul>
+                        <div class="language-links">
+                            <a href="#">Eng</a>
+                            <a href="#">FR</a>
                         </div>
                     </div>
                     <div class="col-md-6">
@@ -28,14 +22,13 @@
         </div>
         <nav class="navbar navbar-expand-lg header-anim">
             <div class="container">
-                <a class="navbar-brand" href="index.php"><img src="assets/images/logo_purple.svg" alt=""></a>
-                <!-- <a class="navbar-brand" href="index.php"><img src="assets/images/logo_purple1.svg" alt=""></a> -->
+                <a class="navbar-brand" href="index.html"><img src="../../assets/images/logo_light.svg" alt=""></a>
 
                 <form class="d-flex order-lg-last ms-3 align-items-center">
                     <a href="#" id="search_home">
                         <i class="srn-search"></i>
                     </a>
-                    <!-- <a class="signup-btn btn btn-outline-primary text-nowrap" data-trigger="#signup" data-lenis-stop>
+                    <!-- <a class="signup-btn btn btn-outline-light text-nowrap" data-trigger="#signup">
                         <span class="d-none d-sm-inline-block"><span class="outer-wrap"><span data-text="Sing Up">Sing Up</span></span></span>
                         <span class="d-block d-sm-none"><i class="bi bi-door-closed"></i></span>
                     </a> -->
@@ -49,43 +42,11 @@
 
 
                 <!-- import headerMenu -->
-                <?php include 'pages/header/headerMenu.php'; ?>
+                <?php include 'headerMenu.php'; ?>
                 <!-- import headerMenu end -->
             </div>
         </nav>
     </header>
-
-    <div class="home-default-banner">
-        <div class="container pos-rel">
-            <div class="banner-abstract-shape"></div>
-            <div class="matrix-vertical">
-                <img src="assets/images/matrix_vertical.svg" alt="">
-            </div>
-            <div class="rectangle-small">
-                <img src="assets/images/rectangle_small.svg" alt="">
-            </div>
-            <div class="row align-items-center">
-                <div class="col-lg-7">
-                    <div class="marketing-banner">
-                        <div class="title">
-                            <span>For Businesses and Enterprises</span>
-                            <h1 class="wow">We build powerful <strong>software solutions</strong></h1>
-                            <p class="lead">Transform your business with custom software development, web applications, and digital solutions. Our expert team delivers scalable technology that drives growth and innovation.</p>
-                            <div class="cta-group">
-                                <a href="javascript:" class="btn btn-primary" data-trigger="#signup"><span class="outer-wrap"><span data-text="Get Started">Get Started</span></span></a>
-                                <a href="about-us.html" class="btn btn-secondary"><span class="outer-wrap"><span data-text="Learn More">Learn More</span></span></a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-5">
-                    <div class="banner-img">
-                        <img src="assets/images/home-default-banner-img.png" alt="">
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
 
     <b class="screen-overlay"></b>
     <!--  Signup Form Start -->
@@ -134,4 +95,19 @@
         </div>
     </article>
     <!--  Signup Form Start -->
+
+    <!--  Page Breadcrumbs Start -->
+    <section class="breadcrumbs-page">
+        <div class="container">
+            <h1>Our Services</h1>
+            <nav aria-label="breadcrumb">
+                <ol class="breadcrumb">
+                    <li class="breadcrumb-item"><a href="javascript:"><i class="bi-house"></i></a></li>
+                    <li class="breadcrumb-item">Pages</li>
+                    <li class="breadcrumb-item active" aria-current="page">Our Services</li>
+                </ol>
+            </nav>
+        </div>
+    </section>
+    <!--  Page Breadcrumbs End -->
 </div>
