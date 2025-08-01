@@ -10,7 +10,7 @@
             </div>
             <div class="col-lg-9 col-md-8">
                 <div class="subscribe-form">
-                    <div class="head">Subscribe Our Newsletter</div>
+                    <div class="head">Subscribe to Our Newsletter</div>
                     <div class="input-wrap">
                         <input type="text" name="subscribe" placeholder="Enter your email address" class="form-control bordered bottom-only">
                         <button type="submit" class="btn btn-primary"><span class="outer-wrap"><span data-text="Subscribe">Subscribe</span></span></button>
@@ -26,9 +26,9 @@
                     <div class="row">
                         <div class="col-xxl-6 col-sm-6">
                             <div class="footer-widget">
-                                <h4 class="widget-title">About Us</h4>
+                                <h4 class="widget-title">About Wsoft</h4>
                                 <p class="footer-text">
-                                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. In urna lectus, mattis non accumsan in, tempor dictum neque.
+                                    We specialize in creating innovative software solutions that transform businesses. From custom web applications to mobile apps, we deliver technology that drives growth and success.
                                 </p>
                                 <div class="social-icons">
                                     <ul class="list-unstyled">
@@ -44,15 +44,15 @@
                                     <ul class="list-unstyled">
                                         <li>
                                             <div><i class="bi bi-geo-alt"></i></div>
-                                            <div>Envato Pty Ltd, 13/2 Elizabeth St Melbourne VIC 3000, Australia</div>
+                                            <div>Wsoft Technologies, 123 Business Center, Colombo 03, Sri Lanka</div>
                                         </li>
                                         <li>
                                             <div><i class="bi bi-phone"></i></div>
-                                            <div><a href="tel:+1234567899">(+01) 123 456 7890</a></div>
+                                            <div><a href="tel:+94112345678">(+94) 11 234 5678</a></div>
                                         </li>
                                         <li>
                                             <div><i class="bi bi-envelope"></i></div>
-                                            <div><a href="https://mannatstudio.com/cdn-cgi/l/email-protection#4028252c3000332532252e293425346e232f2d"><span class="__cf_email__" data-cfemail="adc5c8c1ddeddec8dfc8c3c4d9c8d983cec2c0">[email&#160;protected]</span></a></div>
+                                            <div><a href="mailto:info@wsoft.lk">info@wsoft.lk</a></div>
                                         </li>
                                     </ul>
                                 </div>
@@ -63,11 +63,11 @@
                             <div class="footer-widget">
                                 <h4 class="widget-title">Company</h4>
                                 <ul class="list-unstyled icons-listing mb-0 widget-listing">
-                                    <li><a href="javascript:">About</a></li>
+                                    <li><a href="javascript:">About Us</a></li>
                                     <li><a href="javascript:">Contact Us</a></li>
-                                    <li><a href="javascript:">Blog</a></li>
-                                    <li><a href="javascript:">Culture</a></li>
-                                    <li><a href="javascript:">Jobs</a></li>
+                                    <li><a href="javascript:">Portfolio</a></li>
+                                    <li><a href="javascript:">Our Team</a></li>
+                                    <li><a href="javascript:">Careers</a></li>
                                 </ul>
                             </div>
                         </div>
@@ -81,11 +81,11 @@
                             <div class="footer-widget">
                                 <h4 class="widget-title">Support</h4>
                                 <ul class="list-unstyled icons-listing mb-0 widget-listing">
-                                    <li><a href="javascript:">Getting started</a></li>
-                                    <li><a href="javascript:">Chat our support</a></li>
-                                    <li><a href="javascript:">Help center</a></li>
-                                    <li><a href="javascript:">Services status</a></li>
-                                    <li><a href="javascript:">Report a bug</a></li>
+                                    <li><a href="javascript:">Getting Started</a></li>
+                                    <li><a href="javascript:">Technical Support</a></li>
+                                    <li><a href="javascript:">Documentation</a></li>
+                                    <li><a href="javascript:">Project Status</a></li>
+                                    <li><a href="javascript:">Report Issues</a></li>
                                 </ul>
                             </div>
                         </div>
@@ -93,11 +93,11 @@
                             <div class="footer-widget">
                                 <h4 class="widget-title">Services</h4>
                                 <ul class="list-unstyled icons-listing mb-0 widget-listing">
-                                    <li><a href="javascript:">Pricing</a></li>
-                                    <li><a href="javascript:">Support</a></li>
-                                    <li><a href="javascript:">Sales and Refunds</a></li>
-                                    <li><a href="javascript:">Legal</a></li>
-                                    <li><a href="javascript:">Testimonials & Faq’s</a></li>
+                                    <li><a href="javascript:">Web Development</a></li>
+                                    <li><a href="javascript:">Mobile Apps</a></li>
+                                    <li><a href="javascript:">Custom Software</a></li>
+                                    <li><a href="javascript:">API Development</a></li>
+                                    <li><a href="javascript:">Maintenance</a></li>
                                 </ul>
                             </div>
                         </div>
@@ -110,15 +110,15 @@
                                     <ul class="list-unstyled">
                                         <li>
                                             <div><i class="bi bi-geo-alt"></i></div>
-                                            <div>4789 Melmorn Street,Zakila Ton Mashintron Town</div>
+                                            <div>123 Software Park, Tech City, Colombo 03, Sri Lanka</div>
                                         </li>
                                         <li>
                                             <div><i class="bi bi-phone"></i></div>
-                                            <div><a href="tel:+1234567899">(+01) 123 456 7890</a></div>
+                                            <div><a href="tel:+94112345678">(+94) 11 234 5678</a></div>
                                         </li>
                                         <li>
                                             <div><i class="bi bi-envelope"></i></div>
-                                            <div><a href="https://mannatstudio.com/cdn-cgi/l/email-protection#5139343d2111223423343f382534257f323e3c"><span class="__cf_email__" data-cfemail="cea6aba2be8ebdabbcaba0a7baabbae0ada1a3">[email&#160;protected]</span></a></div>
+                                            <div><a href="mailto:info@wsoft.lk">info@wsoft.lk</a></div>
                                         </li>
                                     </ul>
                                 </div>
@@ -132,13 +132,13 @@
             <div class="tiny-footer">
                 <div class="row align-items-center">
                     <div class="col-md-6 mb-0">
-                        Copyright &copy; <span id="yearText"></span> <strong>Wsoft</strong> Theme All rights reserved.
+                        Copyright &copy; <span id="yearText"></span> <strong>Wsoft</strong> Software Solutions. All rights reserved.
                     </div>
                     <div class="col-md-6">
                         <div class="tiny-footer-links">
                             <ul class="list-unstyled list-inline">
                                 <li>
-                                    <a href="#">Terms of Use</a>
+                                    <a href="#">Terms of Service</a>
                                 </li>
                                 <li>
                                     <a href="#">Privacy Policy</a>
