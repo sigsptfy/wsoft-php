@@ -3,7 +3,7 @@
         <div class="row align-items-center">
             <div class="col-lg-3 col-md-4">
                 <div class="logo-footer">
-                    <a href="index.html">
+                    <a href="index.php">
                         <img src="assets/images/logo_light.svg" alt="">
                     </a>
                 </div>
