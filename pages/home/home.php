@@ -592,8 +592,8 @@
                                      <path d="M346 161h-40c-19 0-35 16-35 35v40c0 19 16 35 35 35h43c-7 29-32 50-63 50a15 15 0 0 0 0 30c52 0 95-43 95-95v-60c0-19-16-35-35-35zm-45 75v-40c0-3 2-5 5-5h40c3 0 5 2 5 5v45h-45c-3 0-5-2-5-5zm-95-75h-40c-19 0-35 16-35 35v40c0 19 16 35 35 35h43c-7 29-32 50-63 50a15 15 0 0 0 0 30c52 0 95-43 95-95v-60c0-19-16-35-35-35zm-45 75v-40c0-3 2-5 5-5h40c3 0 5 2 5 5v45h-45c-3 0-5-2-5-5z" />
                                  </svg>
                              </div>
-                             <span>Real User Reviews</span>
-                             <h2 class="wow">What our client’s are <strong>Saying about us</strong></h2>
+                             <span>Client Testimonials</span>
+                             <h2 class="wow">What our satisfied clients <strong>say about our work</strong></h2>
                          </div>
                      </div>
                  </div>
@@ -603,24 +603,22 @@
                      <div class="item">
                          <div class="testimonial-single-left">
                              <hr class="divider-secondary">
-                             <h6>My business is growing faster
-                                 and I’m very happy with that</h6>
-                             <p>Thank you for your excellent work. No one could hear us as well as you and make our
-                                 wishes come true so beautifully and beautifully. Starting from the very first day, the work
-                                 was inspired and gave positive results. </p>
+                             <h6>Outstanding software development service
+                                 that transformed our business</h6>
+                             <p>Wsoft delivered exactly what we needed - a robust e-commerce platform that has significantly improved our online sales. Their technical expertise and attention to detail were exceptional throughout the entire development process.</p>
                              <div class="testimonial-box">
                                  <div class="thumb-img">
                                      <img src="assets/images/thumb_1.jpg" alt="">
                                  </div>
                                  <div class="content">
-                                     <h6 class="name">Rider Smith</h6>
-                                     <div class="post">Marketing Envato Pty Ltd.</div>
+                                     <h6 class="name">John Anderson</h6>
+                                     <div class="post">CEO, TechVenture Solutions</div>
                                      <div class="rating">
                                          <i class="bi bi-star-fill"></i>
                                          <i class="bi bi-star-fill"></i>
                                          <i class="bi bi-star-fill"></i>
                                          <i class="bi bi-star-fill"></i>
-                                         <i class="bi bi-star"></i>
+                                         <i class="bi bi-star-fill"></i>
                                      </div>
                                  </div>
                              </div>
@@ -632,24 +630,22 @@
                      <div class="item">
                          <div class="testimonial-single-left">
                              <hr class="divider-secondary">
-                             <h6>My business is growing faster
-                                 and I’m very happy with that</h6>
-                             <p>Thank you for your excellent work. No one could hear us as well as you and make our
-                                 wishes come true so beautifully and beautifully. Starting from the very first day, the work
-                                 was inspired and gave positive results. </p>
+                             <h6>Professional team with excellent
+                                 project management skills</h6>
+                             <p>The mobile app they developed for us exceeded our expectations. The user interface is intuitive and the performance is flawless. Wsoft's team was responsive and delivered the project on time and within budget.</p>
                              <div class="testimonial-box">
                                  <div class="thumb-img">
                                      <img src="assets/images/thumb_2.jpg" alt="">
                                  </div>
                                  <div class="content">
-                                     <h6 class="name">Kevin Martin</h6>
-                                     <div class="post">Marketing Consultant</div>
+                                     <h6 class="name">Maria Rodriguez</h6>
+                                     <div class="post">Operations Manager, Digital Health</div>
                                      <div class="rating">
                                          <i class="bi bi-star-fill"></i>
                                          <i class="bi bi-star-fill"></i>
                                          <i class="bi bi-star-fill"></i>
                                          <i class="bi bi-star-fill"></i>
-                                         <i class="bi bi-star"></i>
+                                         <i class="bi bi-star-fill"></i>
                                      </div>
                                  </div>
                              </div>
@@ -661,24 +657,22 @@
                      <div class="item">
                          <div class="testimonial-single-left">
                              <hr class="divider-secondary">
-                             <h6>My business is growing faster
-                                 and I’m very happy with that</h6>
-                             <p>Thank you for your excellent work. No one could hear us as well as you and make our
-                                 wishes come true so beautifully and beautifully. Starting from the very first day, the work
-                                 was inspired and gave positive results. </p>
+                             <h6>Reliable partner for all our
+                                 software development needs</h6>
+                             <p>We've worked with Wsoft on multiple projects and they consistently deliver high-quality solutions. Their custom CRM system has streamlined our operations and improved our customer service significantly.</p>
                              <div class="testimonial-box">
                                  <div class="thumb-img">
                                      <img src="assets/images/thumb_3.jpg" alt="">
                                  </div>
                                  <div class="content">
-                                     <h6 class="name">Sarah Albert</h6>
-                                     <div class="post">Senior Advisor</div>
+                                     <h6 class="name">Sarah Thompson</h6>
+                                     <div class="post">Director, GlobalTrade Corp</div>
                                      <div class="rating">
                                          <i class="bi bi-star-fill"></i>
                                          <i class="bi bi-star-fill"></i>
                                          <i class="bi bi-star-fill"></i>
                                          <i class="bi bi-star-fill"></i>
-                                         <i class="bi bi-star"></i>
+                                         <i class="bi bi-star-fill"></i>
                                      </div>
                                  </div>
                              </div>
@@ -690,24 +684,22 @@
                      <div class="item">
                          <div class="testimonial-single-left">
                              <hr class="divider-secondary">
-                             <h6>My business is growing faster
-                                 and I’m very happy with that</h6>
-                             <p>Thank you for your excellent work. No one could hear us as well as you and make our
-                                 wishes come true so beautifully and beautifully. Starting from the very first day, the work
-                                 was inspired and gave positive results. </p>
+                             <h6>Innovative solutions with cutting-edge
+                                 technology implementation</h6>
+                             <p>The web application Wsoft built for our company has revolutionized how we manage our inventory and sales. Their expertise in modern technologies and commitment to excellence is truly impressive.</p>
                              <div class="testimonial-box">
                                  <div class="thumb-img">
                                      <img src="assets/images/thumb_4.jpg" alt="">
                                  </div>
                                  <div class="content">
-                                     <h6 class="name">David Cooper</h6>
-                                     <div class="post">Freelance Consultant</div>
+                                     <h6 class="name">Michael Chen</h6>
+                                     <div class="post">CTO, InnovateTech Ltd</div>
                                      <div class="rating">
                                          <i class="bi bi-star-fill"></i>
                                          <i class="bi bi-star-fill"></i>
                                          <i class="bi bi-star-fill"></i>
                                          <i class="bi bi-star-fill"></i>
-                                         <i class="bi bi-star"></i>
+                                         <i class="bi bi-star-fill"></i>
                                      </div>
                                  </div>
                              </div>
