@@ -28,7 +28,8 @@
         </div>
         <nav class="navbar navbar-expand-lg header-anim">
             <div class="container">
-                <a class="navbar-brand" href="index.html"><img src="assets/images/logo_purple.svg" alt=""></a>
+                <a class="navbar-brand" href="index.php"><img src="assets/images/logo_purple.svg" alt=""></a>
+                <!-- <a class="navbar-brand" href="index.php"><img src="assets/images/logo_purple1.svg" alt=""></a> -->
 
                 <form class="d-flex order-lg-last ms-3 align-items-center">
                     <a href="#" id="search_home">
@@ -49,7 +50,7 @@
 
                 <div class="navbar-collapse offcanvas offcanvas-start offcanvas-collapse" id="navbarCollapse">
                     <div class="offcanvas-header">
-                        <a class="navbar-brand" href="index.html"><img src="assets/images/logo_dark.svg" alt=""></a>
+                        <a class="navbar-brand" href="index.php"><img src="assets/images/logo_dark.svg" alt=""></a>
                         <button class="navbar-toggler x collapsed" type="button" data-bs-toggle="offcanvas" data-bs-target="#navbarCollapse"
                             aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
                             <i class="bi bi-x-lg"></i>
@@ -61,7 +62,7 @@
                             <li class="nav-item dropdown">
                                 <a class="nav-link" href="#" data-bs-toggle="dropdown" aria-expanded="false">Home</a>
                                 <!-- <ul class="dropdown-menu">
-                                    <li><a class="dropdown-item" href="index.html">Home Default</a></li>
+                                    <li><a class="dropdown-item" href="index.php">Home Default</a></li>
                                     <li><a class="dropdown-item" href="index-digital-marketing.html">Home Digital Marketing</a></li>
                                     <li><a class="dropdown-item" href="index-software.html">Home Software</a></li>
                                     <li><a class="dropdown-item" href="index-coworking.html">Home Coworking</a></li>
