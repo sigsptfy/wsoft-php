@@ -28,7 +28,7 @@
         </div>
         <nav class="navbar navbar-expand-lg header-anim">
             <div class="container">
-                <a class="navbar-brand" href="index.html"><img src="assets/images/logo_purple.png" alt=""></a>
+                <a class="navbar-brand" href="index.html"><img src="assets/images/logo_purple.svg" alt=""></a>
 
                 <form class="d-flex order-lg-last ms-3 align-items-center">
                     <a href="#" id="search_home">
