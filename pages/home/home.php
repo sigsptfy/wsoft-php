@@ -260,13 +260,13 @@
              <div class="row align-items-center">
                  <div class="col-lg-6 col-xl-5 mb-0">
                      <div class="section-title text-start">
-                         <span>Our Case Studies </span>
-                         <h2 class="mb-0 wow">Our work we do and <strong>The client we help</strong></h2>
+                         <span>Our Portfolio</span>
+                         <h2 class="mb-0 wow">Software solutions we build and <strong>clients we serve</strong></h2>
                      </div>
                  </div>
                  <div class="col-lg-6 col-xl-6 ms-auto mb-4 mb-lg-0">
                      <div class="section-text">
-                         Lorem ipsum dolor sit amet, consectetur adipiscing elit. In urna lectus, mattis non accumsan in, tempor dictum neque. In hac habitasse platea dictumst. Lorem ipsum dolor sit amet, consectetur adipiscing.
+                         Explore our diverse portfolio of successful software projects. From enterprise applications to custom web solutions, we've delivered innovative technology solutions across various industries and business sectors.
                      </div>
                  </div>
              </div>
@@ -275,7 +275,7 @@
                      <div class="portfolio-gallery-item">
                          <div class="item-img">
                              <div class="portfolio-img-gallery">
-                                 <a href="assets/images/portfolio/portfolio_img_1.jpg" class="portfolio-img-gallery" title="Title Come here">
+                                 <a href="assets/images/portfolio/portfolio_img_1.jpg" class="portfolio-img-gallery" title="E-commerce Platform">
                                      <img src="assets/images/portfolio/portfolio_img_1.jpg" class="rounded" alt="">
                                  </a>
                                  <div class="img-over"><i class="bi bi-plus-lg"></i></div>
@@ -284,10 +284,9 @@
                              <a href="portfolio-single.html" class="arrow"><i class="srn-arrow-right"></i></a>
                          </div>
                          <div class="item-content">
-                             <h6><a href="portfolio-single.html">Global revenue</a></h6>
-                             <div class="sub-head">It Services & Consultancy</div>
-                             <p>We use the latest technologies it voluptatem
-                                 accusantium We do this by discerning the ships</p>
+                             <h6><a href="portfolio-single.html">E-commerce Platform</a></h6>
+                             <div class="sub-head">Web Development & E-commerce</div>
+                             <p>Custom-built online marketplace with advanced features including payment integration and inventory management system</p>
                          </div>
                      </div>
                  </div>
@@ -295,7 +294,7 @@
                      <div class="portfolio-gallery-item">
                          <div class="item-img">
                              <div class="portfolio-img-gallery">
-                                 <a href="assets/images/portfolio/portfolio_img_2.jpg" class="portfolio-img-gallery" title="Title Come here">
+                                 <a href="assets/images/portfolio/portfolio_img_2.jpg" class="portfolio-img-gallery" title="Mobile Banking App">
                                      <img src="assets/images/portfolio/portfolio_img_2.jpg" class="rounded" alt="">
                                  </a>
                                  <div class="img-over"><i class="bi bi-plus-lg"></i></div>
@@ -304,10 +303,9 @@
                              <a href="portfolio-single.html" class="arrow"><i class="srn-arrow-right"></i></a>
                          </div>
                          <div class="item-content">
-                             <h6><a href="portfolio-single.html">Global revenue</a></h6>
-                             <div class="sub-head">It Services & Consultancy</div>
-                             <p>We use the latest technologies it voluptatem
-                                 accusantium We do this by discerning the ships</p>
+                             <h6><a href="portfolio-single.html">Mobile Banking App</a></h6>
+                             <div class="sub-head">Mobile App Development</div>
+                             <p>Secure and user-friendly mobile banking application with biometric authentication and real-time transaction processing</p>
                          </div>
                      </div>
                  </div>
@@ -315,7 +313,7 @@
                      <div class="portfolio-gallery-item">
                          <div class="item-img">
                              <div class="portfolio-img-gallery">
-                                 <a href="assets/images/portfolio/portfolio_img_3.jpg" class="portfolio-img-gallery" title="Title Come here">
+                                 <a href="assets/images/portfolio/portfolio_img_3.jpg" class="portfolio-img-gallery" title="Enterprise Management System">
                                      <img src="assets/images/portfolio/portfolio_img_3.jpg" class="rounded" alt="">
                                  </a>
                                  <div class="img-over"><i class="bi bi-plus-lg"></i></div>
@@ -324,10 +322,9 @@
                              <a href="portfolio-single.html" class="arrow"><i class="srn-arrow-right"></i></a>
                          </div>
                          <div class="item-content">
-                             <h6><a href="portfolio-single.html">Global revenue</a></h6>
-                             <div class="sub-head">It Services & Consultancy</div>
-                             <p>We use the latest technologies it voluptatem
-                                 accusantium We do this by discerning the ships</p>
+                             <h6><a href="portfolio-single.html">Enterprise Management System</a></h6>
+                             <div class="sub-head">Custom Software Development</div>
+                             <p>Comprehensive business management solution with CRM, inventory tracking, and automated reporting capabilities</p>
                          </div>
                      </div>
                  </div>
