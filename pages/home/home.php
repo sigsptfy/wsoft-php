@@ -724,17 +724,16 @@
                  </div>
                  <div class="col-xl-7 col-lg-6 text-start">
                      <div class="section-title">
-                         <span>Need Help With Our Services</span>
-                         <h2 class="wow">Are you looking for <strong>our services or want to try it for free?</strong></h2>
-                         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. In urna lectus, mattis non accumsan in, tempor dictum neque. In hac habitasse platea dictumst. Lorem ipsum dolor sit amet, consectetur adipiscing.</p>
+                         <span>Ready to Start Your Project</span>
+                         <h2 class="wow">Looking for custom software solutions <strong>or want to discuss your project?</strong></h2>
+                         <p>Let's transform your business with innovative software solutions. Our expert team is ready to understand your requirements and deliver technology that drives growth and efficiency for your organization.</p>
                      </div>
                      <div class="btn-set wow fadeInUp">
-                         <a href="javascript:" class="btn btn-primary" data-trigger="#signup"><span class="outer-wrap"><span data-text="Try for free">Try for free</span></span></a>
-                         <a href="contact.html" class="btn btn-secondary"><span class="outer-wrap"><span data-text="Learn More">Learn More</span></span></a>
+                         <a href="javascript:" class="btn btn-primary" data-trigger="#signup"><span class="outer-wrap"><span data-text="Get Free Quote">Get Free Quote</span></span></a>
+                         <a href="contact.html" class="btn btn-secondary"><span class="outer-wrap"><span data-text="Contact Us">Contact Us</span></span></a>
                      </div>
                  </div>
              </div>
-
              <div class="img-abstract">
                  &nbsp;
              </div>
