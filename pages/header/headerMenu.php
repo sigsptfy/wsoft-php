@@ -10,7 +10,7 @@
 
                         <ul class="navbar-nav">
                             <li class="nav-item dropdown">
-                                <a class="nav-link" href="#" data-bs-toggle="dropdown" aria-expanded="false">Home</a>
+                                <a class="nav-link" href="pages/home/home.php" aria-expanded="false">Home</a>
                                 <!-- <ul class="dropdown-menu">
                                     <li><a class="dropdown-item" href="index.php">Home Default</a></li>
                                     <li><a class="dropdown-item" href="index-digital-marketing.html">Home Digital Marketing</a></li>
